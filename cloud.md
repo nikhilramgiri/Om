@@ -15,3 +15,7 @@
 5.Completely reliable.
 
 6.Unlimited storage capacity
+
+**Create Ec2 and S3**
+
+[EC2-S3](aws.md)
